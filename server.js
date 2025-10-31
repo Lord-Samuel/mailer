@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const { sendFeed } = require('./src/sendEmail');
-const { Logger } = require('./logger');
+const { Logger } = require('./src/logger');
 
 const app = express();
 const logger = new Logger("Server");
