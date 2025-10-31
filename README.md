@@ -1,2 +1,1 @@
-# mailer
-An Express Server For Sending Emails
+Amm Tired, ReadMe will Have To Wait
